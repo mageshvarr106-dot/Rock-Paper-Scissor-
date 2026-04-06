@@ -38,7 +38,7 @@ body{
   font-size: 15px;
   cursor: pointer;
 }
-@media (max-width: 450px){
+@media (max-width: 600px){
 
   .heading{
     font-size:22px;
