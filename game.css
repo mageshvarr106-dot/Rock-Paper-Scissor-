@@ -1,6 +1,6 @@
 body{
-  background-color:rgb(25 25 25);
-  color:white;
+  background-color:#fff;
+  color:rgb(3, 0, 0);
   font-family:arial;
 
 }
@@ -38,7 +38,7 @@ body{
   font-size: 15px;
   cursor: pointer;
 }
-@media (max-width: 450px){
+/* @media (max-width: 450px){
 
   .heading{
     font-size:22px;
@@ -77,4 +77,4 @@ body{
   body{
     text-align:center;
   }
-}
+} */
